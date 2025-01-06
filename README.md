@@ -1,7 +1,6 @@
-# CMMS
-## The free and open source CMMS.
+# SuperCMMS - The free and open source CMMS.
 
-This codebase is the free and open source version of SuperCMMS (https://supercmms.com)
+This repository is the codebase for SuperCMMS (https://supercmms.com) - a free and open source Computerized Maintenance Management System (CMMS). This repository is work in progress. Star it to receive updates on progress.  
 
-Contains the following modules.
+### Contains the following modules.
 

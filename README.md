@@ -6,9 +6,6 @@ This repository is the codebase for SuperCMMS (https://supercmms.com) - a free a
 ## Feature List.
 
 ### Locations and Asset Management
-- this
-  - this also
-- that
 ### Work Orders and Preventive Maintenance
 ### Checklists
 ### QR Codes

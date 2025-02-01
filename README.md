@@ -5,8 +5,9 @@ This repository will contain the backend codebase/database design of SuperCMMS (
 
 ## Feature List.
 
-### Locations and Asset Management
-### Work Orders and Preventive Maintenance
+### Asset Management
+### Work Orders
+### Preventive Maintenance
 ### Checklists
 ### QR Codes
 ### Inventory Management

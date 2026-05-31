@@ -1,6 +1,6 @@
 # SuperCMMS - The free and open source CMMS.
 
-This repository will contain the backend codebase/database design of SuperCMMS (https://supercmms.com) - a free and open source Computerized Maintenance Management System (CMMS).
+This repository contains the backend codebase/database design of SuperCMMS (https://supercmms.com) - a free and open source Computerized Maintenance Management System (CMMS).
 
 ### What is being open sourced?
 We are open sourcing the backend code. Every organization has unique requirements for CMMS and a single frontend UI will not suit all. Therefore, any frontend code is beyond the scope of this effort. The idea is for organizations to use this backend architecture and build a frontend on it that suits their specific requirements.
@@ -20,9 +20,11 @@ Please note it will be some time before the open source version reaches producti
 #### - Work Orders
 #### - Preventive Maintenance
 #### - Predictive Maintenance
+#### - Corrective Maintenance
 #### - Checklists
 #### - QR Codes
 #### - Inventory Management
+#### - Central Document Repository
 
 --
 
